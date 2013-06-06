@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PanFinder"
+  id="myeclipse.1370531807964"
+  context-root="/PanFinder"
+  j2ee-spec="5.0"
+  archive="PanFinder.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

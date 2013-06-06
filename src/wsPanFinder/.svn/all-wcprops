@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder
+END
+ArrayOfOBJEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/ArrayOfOBJEstablishment.java
+END
+WsEstablishmentsHttpPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/WsEstablishmentsHttpPost.java
+END
+OBJEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/OBJEstablishment.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/ObjectFactory.java
+END
+OBJEstablishmentOtherData.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/OBJEstablishmentOtherData.java
+END
+WsEstablishments.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/WsEstablishments.java
+END
+WsEstablishmentsHttpGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/WsEstablishmentsHttpGet.java
+END
+ArrayOfOBJEstablishmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/ArrayOfOBJEstablishmentService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/package-info.java
+END
+OBJEstablishmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/OBJEstablishmentService.java
+END
+WsEstablishmentsSoap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/WsEstablishmentsSoap.java
+END
+GetEstablishmentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/GetEstablishmentsResponse.java
+END
+GetEstablishments.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/InsolPR/!svn/ver/3899/PanFinder/src/wsPanFinder/GetEstablishments.java
+END
